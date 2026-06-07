@@ -1,4 +1,4 @@
-# FFmpeg EncodeTool GUI
+# FFmpeg EncodeTools GUI
 
 基于 FFmpeg 的，更适配字幕组工作流程的压制工具箱
 
