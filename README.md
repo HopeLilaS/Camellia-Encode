@@ -52,8 +52,8 @@
 
 文件名 | 版本类型 | 包含内容 | 适用场景
 -- | -- | -- | --
-FFmpegEncodeTools_GUI_v0.9.2-pre_Full.7z | 包含运行依赖 | 打包了 FFmpeg、VapourSynth 等软件运行所需的必要外置依赖，解压即用，文件体积较大。 | 新手用户、无需配置环境快速使用。
-FFmpegEncodeTools_GUI_v0.9.2-pre_Lite.7z | 不含运行依赖 | 仅包含程序本体与必要脚本，需用户自行安装 Python 及所需依赖（如 FFmpeg），文件体积小。 | 已有所需环境的用户、希望节省下载体积或自行控制依赖版本。
+FFmpegEncodeTools_GUI_Full | 包含运行依赖 | 打包了 FFmpeg、VapourSynth 等软件运行所需的必要外置依赖，解压即用，文件体积较大。 | 新手用户、无需配置环境快速使用。
+FFmpegEncodeTools_GUI_Lite | 不含运行依赖 | 仅包含程序本体与必要脚本，需用户自行安装 Python 及所需依赖（如 FFmpeg），文件体积小。 | 已有所需环境的用户、希望节省下载体积或自行控制依赖版本。
 
 ---
 ## 安装与运行
