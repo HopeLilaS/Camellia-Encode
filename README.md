@@ -66,7 +66,7 @@ FFmpegEncodeTools_GUI_Lite | 不含运行依赖 | 仅包含程序本体与必要
 ### 1. 安装 Python 依赖
 
 ```bash
-pip install PySide6 qfluentwidgets qframelesswindow
+pip install PySide6 PySide6-Fluent-Widgets PySide6-Frameless-Window
 ```
 
 ### 2. 准备外部工具依赖
